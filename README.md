@@ -136,6 +136,9 @@ Veja amostra dessas videoaulas: [DevOps oficial](https://www.linkedin.com/feed/u
 * Bruno Jardim
 [[Linkedin]](https://www.linkedin.com/in/bruno-jardim-pmp-5b5b31171/)
 
+* Lamara Ferreira
+[[Linkedin]](https://www.linkedin.com/in/lamara-ferreira/)
+
 # Material Extra
 
 Informações e materiais falados durante os workshops de forma fácil e pratica para todos.
