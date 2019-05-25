@@ -143,16 +143,25 @@ Veja amostra dessas videoaulas: [DevOps oficial](https://www.linkedin.com/feed/u
 
 Informações e materiais falados durante os workshops de forma fácil e pratica para todos.
 
-* 2018: DORA - State of DevOps
-[[Site]](https://cloudplatformonline.com/2018-state-of-devops.html)
+* [[Site]](https://cloudplatformonline.com/2018-state-of-devops.html)
 [[PDF]](https://cloudplatformonline.com/rs/248-TPC-286/images/DORA-State%20of%20DevOps.pdf)
-* 2018: Puppet, Splunk - State of DevOps Report
-[[Site]](https://puppet.com/resources/whitepaper/state-of-devops-report)
+2018: DORA - State of DevOps
+
+* [[Site]](https://puppet.com/resources/whitepaper/state-of-devops-report)
 [[PDF]](https://www.thinkahead.com/wp-content/uploads/2018/10/State-of-DevOps-Report.pdf)
+2018: Puppet, Splunk - State of DevOps Report
 
-* The Backwards Brain Bicycle [[YouTube]](https://www.youtube.com/watch?v=MFzDaBzBlL0)
+* [[YouTube]](https://www.youtube.com/watch?v=MFzDaBzBlL0)
+The Backwards Brain Bicycle
 
-* O Profissional do Futuro - Michelle Schneider - TEDxFAAP [[YouTube]](https://www.youtube.com/watch?v=9G5mS_OKT0A)
-* Promovendo uma Comunicação Não Violenta (CNV) na família e nos times: Um jogo que só traz felicidade [[Linkedin]](https://www.linkedin.com/pulse/comunica%C3%A7%C3%A3o-n%C3%A3o-violenta-cnv-com-fam%C3%ADlia-um-jogo-que-s%C3%B3-irigoyen/)
-* Artigo Expansão - Eduardo Carmello [[Facebook]](https://www.facebook.com/story.php?story_fbid=2379365328793703&id=100001607779360)
-* Gamificando o Feedback com foco na Comunicação Autêntica - Jaqueline de Oliveira Ferreira [[PDF]](docs/ArtigoEstudoDecaso_JaquelineFerreira.pdf)
+* [[YouTube]](https://www.youtube.com/watch?v=9G5mS_OKT0A)
+O Profissional do Futuro - Michelle Schneider - TEDxFAAP 
+
+* [[Linkedin]](https://www.linkedin.com/pulse/comunica%C3%A7%C3%A3o-n%C3%A3o-violenta-cnv-com-fam%C3%ADlia-um-jogo-que-s%C3%B3-irigoyen/)
+Promovendo uma Comunicação Não Violenta (CNV) na família e nos times: Um jogo que só traz felicidade
+
+* [[Facebook]](https://www.facebook.com/story.php?story_fbid=2379365328793703&id=100001607779360)
+Artigo Expansão - Eduardo Carmello
+
+* [[PDF]](docs/ArtigoEstudoDecaso_JaquelineFerreira.pdf)
+Gamificando o Feedback com foco na Comunicação Autêntica - Jaqueline de Oliveira Ferreira
