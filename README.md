@@ -150,6 +150,8 @@ Informações e materiais falados durante os workshops de forma fácil e pratica
 [[Site]](https://puppet.com/resources/whitepaper/state-of-devops-report)
 [[PDF]](https://www.thinkahead.com/wp-content/uploads/2018/10/State-of-DevOps-Report.pdf)
 
+* The Backwards Brain Bicycle [[YouTube]](https://www.youtube.com/watch?v=MFzDaBzBlL0)
+
 * O Profissional do Futuro - Michelle Schneider - TEDxFAAP [[YouTube]](https://www.youtube.com/watch?v=9G5mS_OKT0A)
 * Promovendo uma Comunicação Não Violenta (CNV) na família e nos times: Um jogo que só traz felicidade [[Linkedin]](https://www.linkedin.com/pulse/comunica%C3%A7%C3%A3o-n%C3%A3o-violenta-cnv-com-fam%C3%ADlia-um-jogo-que-s%C3%B3-irigoyen/)
 * Artigo Expansão - Eduardo Carmello [[Facebook]](https://www.facebook.com/story.php?story_fbid=2379365328793703&id=100001607779360)
