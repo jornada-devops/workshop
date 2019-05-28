@@ -154,6 +154,9 @@ Informações e materiais falados durante os workshops de forma fácil e pratica
 * [[YouTube]](https://www.youtube.com/watch?v=MFzDaBzBlL0)
 The Backwards Brain Bicycle
 
+* [[YouTube]](https://www.youtube.com/watch?v=ZiCw0v1K4a0)
+Radix – CMMI Case Study
+
 * [[YouTube]](https://www.youtube.com/watch?v=9G5mS_OKT0A)
 O Profissional do Futuro - Michelle Schneider - TEDxFAAP 
 
