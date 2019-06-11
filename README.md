@@ -10,7 +10,7 @@ Para começar, este projeto utiliza a mesma energia da cultura DevOps. Projeto c
 
 ---
 
-[Agenda](#agenda) | [Como Funciona](#como-funciona) | [Apoiadores](#apoiadores) | [Facilitadores](#facilitadores) | [Material Extra](#material-extra)
+[Agenda](#agenda) | [Como Funciona](#como-funciona) | [Apoiadores](#apoiadores) | [Facilitadores](#facilitadores) | [Material Extra](#material-extra) | [Imagens](#imagens)
 
 # Agenda
 
@@ -168,3 +168,7 @@ Artigo Expansão - Eduardo Carmello
 
 * [[PDF]](docs/ArtigoEstudoDecaso_JaquelineFerreira.pdf)
 Gamificando o Feedback com foco na Comunicação Autêntica - Jaqueline de Oliveira Ferreira
+
+# Imagens
+
+Todas as images do Jornada DevOps (logos, etc) estão centralizadas no [guia de divulgação do livro](https://github.com/jornada-devops/livro/blob/master/guia-divulgacao.md).
