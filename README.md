@@ -18,8 +18,6 @@ Para começar, este projeto utiliza a mesma energia da cultura DevOps. Projeto c
 
 | Data<br>(dd/mm/yyyy) | Informações | Local |
 |:--------------------:|:-----------:|:-----:|
-| 06/06/2019 | [Lançamento Livro](https://www.sympla.com.br/cultura-agil--colaborativa--digital--devops--aprenda-com-3-palestras-ganhe-1-livro-e-contribua__518823) | **Centro de Convenções SulAmérica** <br>Rio de Janeiro, RJ |
-| 08/06/2019 | [Workshop](https://www.sympla.com.br/floripa-jornada-devops---cultura-de-facilitacao-e-automacao__503336) | Florianópolis, SC |
 | 06/07/2019 | [Workshop](https://www.sympla.com.br/bh-jornada-devops---cultura-de-facilitacao-e-automacao__480552) | Belo Horizonte, MG |
 | 13/07/2019 | [Workshop](https://www.sympla.com.br/poa-jornada-devops---cultura-de-facilitacao-e-automacao__480553) | **DBC Company** <br>Porto Alegre, RS |
 | 27/07/2019 | [Workshop](https://www.sympla.com.br/curitiba-jornada-devops---cultura-de-facilitacao-e-automacao__509371) | Curitiba, PR |
@@ -28,6 +26,8 @@ Para começar, este projeto utiliza a mesma energia da cultura DevOps. Projeto c
 
 | Data<br>(dd/mm/yyyy) | Informações          | Local |
 |:--------------------:|----------------------|:-----:|
+| 08/06/2019 | [Workshop](https://www.sympla.com.br/floripa-jornada-devops---cultura-de-facilitacao-e-automacao__503336) | Florianópolis, SC |
+| 06/06/2019 | [Lançamento Livro](https://www.sympla.com.br/cultura-agil--colaborativa--digital--devops--aprenda-com-3-palestras-ganhe-1-livro-e-contribua__518823) | **Centro de Convenções SulAmérica** <br>Rio de Janeiro, RJ |
 | 18/05/2019 | [Workshop](https://www.sympla.com.br/rj-jornada-devops---cultura-de-facilitacao-e-automacao__480546) | **BRQ** <br>Rio de Janeiro, RJ |
 | 13/04/2019 | [Workshop](https://www.sympla.com.br/sp-jornada-devops---cultura-de-facilitacao-e-automacao__452295) | São Paulo, SP |
 
