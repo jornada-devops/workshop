@@ -2,7 +2,7 @@
 
 Aprenda e compartilhe suas experiências em um ambiente altamente interativo. Descubra como a cultura DevOps pode transformar o dia-a-dia do seu projeto e da sua empresa, aumentando a produtividade e potencializando o talento de cada colaborador.
 
-Conheça mais sobre o **Workshop Jornada DevOps** que está visitando empresas por todo o Brasil compartilhando como a cultura DevOps pode melhorar a qualidade dos projetos de software.
+Conheça mais sobre o **Workshop [Jornada DevOps](https://github.com/jornada-devops/livro)** que está visitando empresas por todo o Brasil compartilhando como a cultura DevOps pode melhorar a qualidade dos projetos de software.
 
 **Entre no nosso [*grupo do Telegram*](https://t.me/joinchat/C3TBfVYP0RIbuYOSuGKhHA) para ficar por dentro de tudo que está acontecendo nessa Jornada!**
 
@@ -27,8 +27,7 @@ Para começar, este projeto utiliza a mesma energia da cultura DevOps. Projeto c
 | Data<br>(dd/mm/yyyy) | Informações          | Local |
 |:--------------------:|----------------------|:-----:|
 | 08/06/2019 | [Workshop](https://www.sympla.com.br/floripa-jornada-devops---cultura-de-facilitacao-e-automacao__503336) | Florianópolis, SC |
-| 06/06/2019 | [Lançamento Livro](https://www.sympla.com.br/cultura-agil--colaborativa--digital--devops--aprenda-com-3-palestras-ganhe-1-livro-e-contribua__518823) | **Centro de Convenções SulAmérica** <br>Rio de Janeiro, RJ |
-| 18/05/2019 | [Workshop](https://www.sympla.com.br/rj-jornada-devops---cultura-de-facilitacao-e-automacao__480546) | **BRQ** <br>Rio de Janeiro, RJ |
+| 18/05/2019 | [Workshop](https://www.sympla.com.br/rj-jornada-devops---cultura-de-facilitacao-e-automacao__480546) | **BRQ** - Rio de Janeiro, RJ |
 | 13/04/2019 | [Workshop](https://www.sympla.com.br/sp-jornada-devops---cultura-de-facilitacao-e-automacao__452295) | São Paulo, SP |
 
 # Como Funciona
