@@ -18,9 +18,13 @@ Para começar, este projeto utiliza a mesma energia da cultura DevOps. Projeto c
 
 | Data<br>(dd/mm/yyyy) | Informações | Local |
 |:--------------------:|:-----------:|:-----:|
-| 06/07/2019 | [Workshop](https://www.sympla.com.br/bh-jornada-devops---cultura-de-facilitacao-e-automacao__480552) | Belo Horizonte, MG |
-| 13/07/2019 | [Workshop](https://www.sympla.com.br/poa-jornada-devops---cultura-de-facilitacao-e-automacao__480553) | **DBC Company** <br>Porto Alegre, RS |
-| 27/07/2019 | [Workshop](https://www.sympla.com.br/curitiba-jornada-devops---cultura-de-facilitacao-e-automacao__509371) | Curitiba, PR |
+| 06/07/2019 | [Workshop](https://www.sympla.com.br/bh-jornada-devops---cultura-de-facilitacao-e-automacao__480552) | **OI** - Belo Horizonte, MG |
+| 13/07/2019 | [Workshop](https://www.sympla.com.br/poa-jornada-devops---cultura-de-facilitacao-e-automacao__480553) | **DBC Company** - Porto Alegre, RS |
+| 20/07/2019 | [Workshop] | **Dafiti Group** - São Paulo, SP |
+| 27/07/2019 | [Workshop](https://www.sympla.com.br/curitiba-jornada-devops---cultura-de-facilitacao-e-automacao__509371) | **BRQ Digital Solutions** - Curitiba, PR |
+| 03/08/2019 | [Workshop] | **BRQ Digital Solutions** - Rio de Janeiro, RJ |
+| 10/08/2019 | [Workshop] | Florianópolis, SC |
+| 17/08/2019 | [Workshop] | Brasília, DF |
 
 ## Já Realizados
 
